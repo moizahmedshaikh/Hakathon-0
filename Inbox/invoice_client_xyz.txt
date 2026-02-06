@@ -1,0 +1,20 @@
+INVOICE #INV-2026-001
+Date: January 7, 2026
+
+Bill To:
+Client XYZ Corporation
+123 Business Street
+New York, NY 10001
+
+Services Rendered:
+- Web Development Services (December 2025)
+- 40 hours @ $150/hour
+
+Subtotal: $6,000.00
+Tax (8%): $480.00
+Total Due: $6,480.00
+
+Payment Terms: Net 30
+Due Date: February 6, 2026
+
+Thank you for your business!

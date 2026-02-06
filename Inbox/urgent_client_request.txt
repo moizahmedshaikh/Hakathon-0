@@ -1,0 +1,23 @@
+URGENT REQUEST - IMMEDIATE ATTENTION NEEDED
+
+From: Client ABC
+Date: Jan 7, 2026
+Subject: Critical Bug in Production
+
+Hi,
+
+We're experiencing a critical issue with the payment system on our website. 
+Customers are unable to complete purchases.
+
+This needs to be fixed ASAP as we're losing revenue every hour.
+
+Can you please:
+1. Investigate immediately
+2. Provide status update within 2 hours
+3. Fix by end of day if possible
+
+This is affecting our business operations significantly.
+
+Thanks,
+John Doe
+CEO, Client ABC Corp

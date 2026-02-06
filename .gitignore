@@ -1,0 +1,12 @@
+# Ignore the employee-watchers directory since it's a separate git repo
+employee-watchers/
+
+# Virtual environments
+venv/
+.venv/
+
+# Obsidian files
+.obsidian/
+
+# Logs
+Logs/
