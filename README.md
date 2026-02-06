@@ -184,13 +184,6 @@ The Silver tier will add:
 - Human-in-the-loop approval for emails
 - Scheduled tasks via cron
 
-## 🐛 Known Limitations
-
-1. **Manual startup** - Watchers must be started manually
-2. **No persistence** - System state lost on restart
-3. **Single file type** - Only file monitoring implemented
-4. **No error recovery** - Crashes require manual restart
-
 These will be addressed in Silver and Gold tiers.
 
 ## 📝 Documentation
@@ -200,20 +193,7 @@ These will be addressed in Silver and Gold tiers.
 - `skills/file-monitor/SKILL.md` - File monitoring skill
 - `Company_Handbook.md` - AI behavior rules
 
-## 🎬 Demo Video
 
-[Recording to be added - will show:]
-1. Starting the watcher
-2. Starting Claude Code
-3. Dropping a file in Inbox
-4. Claude processing it
-5. Dashboard update
-6. File moved to Done
-
-## 👤 Author
-
-[Your Name]
-Bronze Tier Submission - Personal AI Employee Hackathon 0
 
 ## 📄 License
 
