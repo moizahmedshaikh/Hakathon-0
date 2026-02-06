@@ -1,7 +1,7 @@
 # AI Employee - Bronze Level Submission
 
-**Hackathon:** Personal AI Employee Hackathon 0  
-**Level:** Bronze (Foundation)  
+**Hackathon:** Personal AI Employee Hackathon 0
+**Level:** Bronze (Foundation)
 **Date:** January 2026
 
 ## 🎯 Project Overview
@@ -178,7 +178,7 @@ claude
 
 The Silver tier will add:
 - Gmail monitoring skill
-- WhatsApp integration  
+- WhatsApp integration
 - Plan.md generation workflow
 - Email MCP server for sending
 - Human-in-the-loop approval for emails
@@ -212,7 +212,7 @@ These will be addressed in Silver and Gold tiers.
 
 ## 👤 Author
 
-[Your Name]  
+[Your Name]
 Bronze Tier Submission - Personal AI Employee Hackathon 0
 
 ## 📄 License
